@@ -3,6 +3,8 @@ Code crunch PowerBI hackathon
 
 ## Steps
 
+Demo power BI dashboard - https://app.powerbi.com/links/i1HEHhvltN?ctid=d5e769b0-fd19-45e4-a4a8-b73545450234&pbi_source=linkShare
+
 ### 1. Download CSV File from the Provided Link
 
 - Click on the provided link to download the CSV file.

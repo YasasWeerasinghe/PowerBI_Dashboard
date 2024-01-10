@@ -9,7 +9,7 @@ Code crunch PowerBI hackathon
 
 ### 2. Open Power BI Desktop
 
-- Launch Power BI Desktop on your machine.
+- Launch Power BI Desktop on machine.
 
 ### 3. Get Data
 

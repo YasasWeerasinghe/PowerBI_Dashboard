@@ -25,11 +25,11 @@ Code crunch PowerBI hackathon
 
 ### 5. Create Visualizations
 
-- Design your dashboard by adding visualizations based on the imported data.
+- Designed the dashboard by adding visualizations based on the imported data.
 
 ### 6. Save and Publish to Power BI Service
 
-- Save your Power BI Desktop file (.pbix).
+- Saved the Power BI Desktop file (.pbix).
 
 - Publish the file to [Power BI Service](https://powerbi.microsoft.com/service/).
 

@@ -41,6 +41,7 @@ Code crunch PowerBI hackathon
 1. Get the provided power BI published link from the repository
 2. Copy/paste the URL to web browser
 3. Enjoy
+4. Power BI link - https://app.powerbi.com/links/i1HEHhvltN?ctid=d5e769b0-fd19-45e4-a4a8-b73545450234&pbi_source=linkShare
 
 
 
